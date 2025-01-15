@@ -4,6 +4,7 @@ package programacioniii.practicatablahash;
 public class Persona {
     private String nombre;
     private int edad;
+    private int mayorEdad;
 
     public Persona(String nombre, int edad) {
         this.nombre = nombre;
